@@ -1,0 +1,5 @@
+../Core/Src/uart_receive_dma.c:24:6:uart_init	8	static
+../Core/Src/uart_receive_dma.c:30:10:uart_available	16	static
+../Core/Src/uart_receive_dma.c:39:9:uart_q8_read	16	static
+../Core/Src/uart_receive_dma.c:53:6:read_rfid_number	24	static
+../Core/Src/uart_receive_dma.c:73:6:transmitData	16	static
